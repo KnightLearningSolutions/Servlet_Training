@@ -1,0 +1,15 @@
+1-First We Compile Validators
+setting the path
+
+javac -cp ".:/home/kls105/workspace/Servlet Folder/MongoDbServlet/libs/mongo-java-driver-3.9.1.jar:/home/kls105/workspace/Servlet Folder/MongoDbServlet/libs/servlet.jar:/home/kls105/workspace/Servlet Folder/MongoDbServlet/libs/log4j-1.2.17.jar:/home/kls105/workspace/Servlet Folder/MongoDbServlet/WEB-INF/classes" -d "/home/kls105/workspace/Servlet Folder/MongoDbServlet/WEB-INF/classes" *.java
+
+
+
+
+
+
+
+
+
+javac -cp ".:/home/kls105/workspace/Servlet Folder/MongoDbServlet/libs/mongo-java-driver-3.9.1.jar:/home/kls105/workspace/Servlet Folder/MongoDbServlet/libs/servlet.jar:/home/kls105/workspace/Servlet Folder/MongoDbServlet/libs/log4j-1.2.17.jar:/home/kls105/workspace/Servlet Folder/MongoDbServlet/WEB-INF/classes" -d "/home/kls105/workspace/Servlet Folder/MongoDbServlet/WEB-INF/classes" *.java
+//for exception

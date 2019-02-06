@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>JavaMongoDemo</servlet-name>
+<servlet-class>JavaMongoDemo</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>JavaMongoDemo</servlet-name>
+<url-pattern>JavaMongoDemo</url-pattern>
+</servlet-mapping>
+</web-app>
